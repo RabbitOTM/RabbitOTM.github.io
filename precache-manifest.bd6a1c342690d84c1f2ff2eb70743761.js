@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f2b9e03c1e4627d6892364947970773e",
+    "revision": "224facb98b5dbf380899f18a5f7e3961",
     "url": "/video-game-memorial/index.html"
   },
   {
-    "revision": "07b7cef6cb754b0b7256",
-    "url": "/video-game-memorial/static/css/main.6625b355.chunk.css"
+    "revision": "577eef9e8e33dead729f",
+    "url": "/video-game-memorial/static/css/main.311804ba.chunk.css"
   },
   {
     "revision": "66aa6cdb66d4e49af9ad",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/video-game-memorial/static/js/2.658097ca.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "07b7cef6cb754b0b7256",
-    "url": "/video-game-memorial/static/js/main.953b5598.chunk.js"
+    "revision": "577eef9e8e33dead729f",
+    "url": "/video-game-memorial/static/js/main.a3d2ecd8.chunk.js"
   },
   {
     "revision": "0d9abc0861ed84e3d904",
