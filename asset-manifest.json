@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/video-game-memorial/static/css/main.311804ba.chunk.css",
+    "main.css": "/video-game-memorial/static/css/main.b5484810.chunk.css",
     "main.js": "/video-game-memorial/static/js/main.e0825733.chunk.js",
     "main.js.map": "/video-game-memorial/static/js/main.e0825733.chunk.js.map",
     "runtime-main.js": "/video-game-memorial/static/js/runtime-main.fdddf57e.js",
@@ -8,15 +8,15 @@
     "static/js/2.658097ca.chunk.js": "/video-game-memorial/static/js/2.658097ca.chunk.js",
     "static/js/2.658097ca.chunk.js.map": "/video-game-memorial/static/js/2.658097ca.chunk.js.map",
     "index.html": "/video-game-memorial/index.html",
-    "precache-manifest.471e38d08153c0eccb60ab711c5a9268.js": "/video-game-memorial/precache-manifest.471e38d08153c0eccb60ab711c5a9268.js",
+    "precache-manifest.1318bf9707245f586e8682b3316562db.js": "/video-game-memorial/precache-manifest.1318bf9707245f586e8682b3316562db.js",
     "service-worker.js": "/video-game-memorial/service-worker.js",
-    "static/css/main.311804ba.chunk.css.map": "/video-game-memorial/static/css/main.311804ba.chunk.css.map",
+    "static/css/main.b5484810.chunk.css.map": "/video-game-memorial/static/css/main.b5484810.chunk.css.map",
     "static/js/2.658097ca.chunk.js.LICENSE.txt": "/video-game-memorial/static/js/2.658097ca.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.fdddf57e.js",
     "static/js/2.658097ca.chunk.js",
-    "static/css/main.311804ba.chunk.css",
+    "static/css/main.b5484810.chunk.css",
     "static/js/main.e0825733.chunk.js"
   ]
 }
